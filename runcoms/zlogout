@@ -9,8 +9,8 @@
 [[ -o INTERACTIVE && -t 2 ]] && {
 
 SAYINGS=(
-    "So long and thanks for all the fish.\n  -- Douglas Adams"
-    "Good morning! And in case I don't see ya, good afternoon, good evening and goodnight.\n  --Truman Burbank"
+    "Make like a tree and FUCK OFF!.\n  -- Ricky "
+    "It's, uhh, 10:33.\n  -- Mclovin"
 )
 
 # Print a randomly-chosen message:
